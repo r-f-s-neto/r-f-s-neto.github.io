@@ -1,0 +1,28 @@
+body {
+    color:white;
+    font-family: Arial;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+div {
+    background-color: black;
+    margin: 5px 40px;
+    padding: 10px;
+}
+
+span {
+    color: yellow;
+}
+
+button {
+    color: black;
+    background-color: yellow;
+    padding: 5px 6px;
+    border-radius: 4px;
+}
